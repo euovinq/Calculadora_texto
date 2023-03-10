@@ -54,5 +54,7 @@ while True:
     
     else:
         print('Operação inválida')
+        print('teste_commit')
+		
     
     
